@@ -1,6 +1,6 @@
 # Bitcoin Symbol: Graphic Pack
 
-<img src="https://raw.github.com/ecogex/bitcoinsymbol-pack/master/bitcoin-symbol.png" width="150" height="150">
+<img src="https://raw.github.com/ecogex/bitcoinsymbol-pack/master/2D/bitcoin-symbol.png" width="150" height="150"/>
 
 This repository contains graphic elements and sources available for free download on [Bitcoin Symbol’s website](http://bitcoinsymbol.com).
 
