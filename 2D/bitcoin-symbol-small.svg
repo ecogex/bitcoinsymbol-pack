@@ -14,7 +14,10 @@
    height="207.58296"
    id="svg3243"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bitcoin-symbol.svg">
+   sodipodi:docname="bitcoin-symbol-small.svg"
+   inkscape:export-filename="/home/raphael/Documents/WORK/EUX/Ecogex/Bitcoin-Symbol/version-2/graphic-pack/2D/bitcoin-symbol-small.png"
+   inkscape:export-xdpi="21.68"
+   inkscape:export-ydpi="21.68">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,9 +31,9 @@
      inkscape:window-height="848"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="1.1368948"
-     inkscape:cx="103.79148"
-     inkscape:cy="103.79148"
+     inkscape:zoom="2.2737897"
+     inkscape:cx="94.330615"
+     inkscape:cy="73.591103"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -49,6 +52,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <path
+     transform="matrix(1.7968127,0,0,1.7968127,189.53124,-135.25255)"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 7.4765053,133.03781 c 0,30.48292 -24.7112843,55.1942 -55.1941983,55.1942 -30.482914,0 -55.194197,-24.71128 -55.194197,-55.1942 0,-30.48291 24.711283,-55.194197 55.194197,-55.194197 30.482914,0 55.1941983,24.711287 55.1941983,55.194197 z"
+     id="path2986" />
   <g
      transform="translate(-271.20384,-428.56577)"
      id="layer1"
