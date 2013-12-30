@@ -19,4 +19,4 @@ This repository contains graphic elements and sources available for free downloa
 
 ## License
 
-Free Art License 1.3 (FAL 1.3)
+Free Art License 1.3 (FAL 1.3) except if stated otherwise, e.g. /fonts.
