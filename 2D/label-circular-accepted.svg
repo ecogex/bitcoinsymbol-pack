@@ -8,10 +8,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="99.993675"
    height="99.993652"
-   id="svg2">
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="label-circular-accepted.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview120"
+     showgrid="false"
+     inkscape:zoom="2.3601498"
+     inkscape:cx="49.996838"
+     inkscape:cy="49.996826"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text5021" />
   <defs
      id="defs4">
     <linearGradient
@@ -752,7 +776,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -836,16 +860,14 @@
            id="path5019"
            style="font-size:77.45342255px;font-weight:bold;text-align:center;letter-spacing:19.36335564px;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Lato Bold" />
       </g>
-      <text
-         x="624.6723"
-         y="650.50067"
-         id="text5021"
-         xml:space="preserve"
-         style="font-size:58.09008026px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;font-family:Sans"><tspan
-           x="624.6723"
-           y="650.50067"
-           id="tspan5023"
-           style="font-size:58.09008026px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#5599ff;fill-opacity:1;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold Semi-Condensed">Ƀ</tspan></text>
+      <g
+         style="font-size:58.09008026px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text5021">
+        <path
+           d="m 604.53365,640.20443 0,-3.88591 5.38922,0 0,-24.73366 -4.87866,0 0,-3.43208 22.60634,0 c 4.65172,4e-5 8.14052,0.86988 10.46643,2.60951 2.32583,1.73972 3.48877,4.35868 3.48881,7.85691 -4e-5,2.515 -0.8037,4.50995 -2.41097,5.98487 -1.60734,1.47497 -3.98994,2.40153 -7.1478,2.7797 3.81969,0.39712 6.75067,1.53169 8.79293,3.40371 2.04219,1.87207 3.0633,4.35867 3.06335,7.45982 -5e-5,4.19792 -1.42771,7.28962 -4.28301,9.27512 -2.83647,1.9855 -7.29911,2.97825 -13.38795,2.97825 l -21.18813,0 0,-3.43208 4.87866,0 0,-6.86416 -5.38922,0 m 15.23163,-14.3807 3.34699,0 c 2.93095,3e-5 5.09609,-0.58617 6.49542,-1.75858 1.41819,-1.19128 2.12729,-3.00659 2.12732,-5.44595 -3e-5,-2.4582 -0.69022,-4.24515 -2.07059,-5.36085 -1.36151,-1.11562 -3.54556,-1.67346 -6.55215,-1.67349 l -3.34699,0 0,14.23887 m 0,21.24486 3.65899,0 c 3.23351,0 5.63502,-0.71856 7.20453,-2.15569 1.56947,-1.43711 2.35421,-3.65898 2.35424,-6.6656 -3e-5,-3.02551 -0.79423,-5.2852 -2.3826,-6.77907 -1.56952,-1.49383 -3.96157,-2.24076 -7.17617,-2.24078 l -3.65899,0 0,7.09107 8.48092,0 0,3.88591 -8.48092,0 0,6.86416"
+           style="font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#5599ff;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold Semi-Condensed"
+           id="path3098" />
+      </g>
     </g>
   </g>
 </svg>
